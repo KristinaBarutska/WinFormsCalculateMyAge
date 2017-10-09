@@ -1,0 +1,11 @@
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\bin\Debug\CalculateMyAgeWindowsFormsApp.exe.config
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\bin\Debug\CalculateMyAgeWindowsFormsApp.exe
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\bin\Debug\CalculateMyAgeWindowsFormsApp.pdb
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\obj\Debug\CalculateMyAgeWindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\obj\Debug\CalculateMyAgeWindowsFormsApp.Properties.Resources.resources
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\obj\Debug\CalculateMyAgeWindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\obj\Debug\CalculateMyAgeWindowsFormsApp.exe
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\obj\Debug\CalculateMyAgeWindowsFormsApp.pdb
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\obj\Debug\CalculateMyAgeWindowsFormsApp.Form1.resources
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\bin\Debug\ClassLibrary1.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeWindowsFormsApp\bin\Debug\ClassLibrary1.pdb

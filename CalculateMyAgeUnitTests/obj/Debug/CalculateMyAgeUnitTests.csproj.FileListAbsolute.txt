@@ -1,0 +1,14 @@
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\CalculateMyAgeUnitTests.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\CalculateMyAgeUnitTests.pdb
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\ClassLibrary1.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\ClassLibrary1.pdb
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\obj\Debug\CalculateMyAgeUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\obj\Debug\CalculateMyAgeUnitTests.dll
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\CalculateMyAgeUnitTests\obj\Debug\CalculateMyAgeUnitTests.pdb

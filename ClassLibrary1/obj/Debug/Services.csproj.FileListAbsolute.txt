@@ -1,0 +1,5 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\k.barutska\Documents\Visual Studio 2017\Projects\CalculateMyAge\ClassLibrary1\obj\Debug\Services.csprojResolveAssemblyReference.cache

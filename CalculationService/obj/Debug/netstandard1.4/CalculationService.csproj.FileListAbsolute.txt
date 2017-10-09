@@ -1,0 +1,7 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\bin\Debug\netstandard1.4\CalculationService.deps.json
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\bin\Debug\netstandard1.4\CalculationService.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\bin\Debug\netstandard1.4\CalculationService.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\obj\Debug\netstandard1.4\CalculationService.csprojResolveAssemblyReference.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\obj\Debug\netstandard1.4\CalculationService.AssemblyInfo.cs
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\obj\Debug\netstandard1.4\CalculationService.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculationService\obj\Debug\netstandard1.4\CalculationService.pdb

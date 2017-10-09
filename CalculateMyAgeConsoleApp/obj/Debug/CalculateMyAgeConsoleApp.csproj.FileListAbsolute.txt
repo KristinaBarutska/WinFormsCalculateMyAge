@@ -1,0 +1,8 @@
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\bin\Debug\CalculateMyAgeConsoleApp.exe.config
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\bin\Debug\CalculateMyAgeConsoleApp.exe
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\bin\Debug\CalculateMyAgeConsoleApp.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\obj\Debug\CalculateMyAgeConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\obj\Debug\CalculateMyAgeConsoleApp.exe
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\obj\Debug\CalculateMyAgeConsoleApp.pdb
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\bin\Debug\ClassLibrary1.dll
+c:\users\k.barutska\documents\visual studio 2017\Projects\CalculateMyAge\CalculateMyAgeConsoleApp\bin\Debug\ClassLibrary1.pdb
