@@ -1,6 +1,6 @@
 ﻿namespace CalculateMyAgeWindowsFormsApp
 {
-    partial class Form1
+    partial class CalculateMyAge
     {
         /// <summary>
         /// Required designer variable.
@@ -117,8 +117,9 @@
             this.dateTimePicker.TabIndex = 5;
             this.dateTimePicker.ValueChanged += new System.EventHandler(this.dateTimePicker_ValueChanged);
             // 
-            // Form1
+            // CalculateMyAge
             // 
+            this.AcceptButton = this.submitButton;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(327, 261);
@@ -131,8 +132,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.firstNameTextBox);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.MaximizeBox = false;
+            this.Name = "CalculateMyAge";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.Text = "Calculate my age";
             this.ResumeLayout(false);
             this.PerformLayout();
 

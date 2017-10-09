@@ -5,15 +5,15 @@ using Services;
 namespace CalculateMyAgeUnitTests
 {
     [TestClass]
-    public class CalculationsUnitTest
+    public class AgeCalculatorUnitTest
     {
         [TestMethod]
         public void CalculateMyAgeShouldReturnAgeOf18()
         {
             DateTime birthDate = Convert.ToDateTime("1/1/1999");
             DateTime fakeDate= Convert.ToDateTime("9/10/2017");
-            Calculations calculations = new Calculations();
-            string returnedAge = calculations.CalculateYourAge(birthDate, fakeDate);
+            AgeCalculator ageCalculator = new AgeCalculator();
+            string returnedAge = ageCalculator.CalculateAge(birthDate, fakeDate);
 
             Assert.AreEqual("18", returnedAge);
         }

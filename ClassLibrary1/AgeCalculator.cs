@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ClassLibrary1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +8,9 @@ using System.Threading.Tasks;
 namespace Services
 
 {
-    public class Calculations
+    public class AgeCalculator: IAgeCalculator
     {
-        public string CalculateYourAge(DateTime birthdate, DateTime? date= null)
+        public string CalculateAge(DateTime birthdate, DateTime? date= null)
         {
             DateTime today;
             if (date == null)

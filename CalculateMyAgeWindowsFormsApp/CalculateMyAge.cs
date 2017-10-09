@@ -1,4 +1,5 @@
-﻿using Services;
+﻿using ClassLibrary1;
+using Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,9 +12,9 @@ using System.Windows.Forms;
 
 namespace CalculateMyAgeWindowsFormsApp
 {
-    public partial class Form1 : Form
+    public partial class CalculateMyAge : Form
     {
-        public Form1()
+        public CalculateMyAge()
         {
             InitializeComponent();
         }
@@ -37,11 +38,12 @@ namespace CalculateMyAgeWindowsFormsApp
 
         private void submitButton_Click(object sender, EventArgs e)
         {
+            IAgeCalculator ageCalculator;
             var firstName = firstNameTextBox.Text;
             var lastName = lastNameTextBox.Text;
             var birthDate = dateTimePicker.Value;
-            Calculations calculations = new Calculations();
-            string age = calculations.CalculateYourAge(birthDate);
+            ageCalculator = new AgeCalculator();
+            string age = ageCalculator.CalculateAge(birthDate);
             resault.Text = String.Format("{0} {1}, you are {2} years old", firstName, lastName, age);
         }
 
