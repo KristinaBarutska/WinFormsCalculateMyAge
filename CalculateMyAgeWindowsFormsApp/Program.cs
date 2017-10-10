@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ClassLibrary1;
+using Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -14,9 +16,10 @@ namespace CalculateMyAgeWindowsFormsApp
         [STAThread]
         static void Main()
         {
+            IAgeCalculator ageCalculator = new AgeCalculator();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CalculateMyAge());
+            Application.Run(new CalculateMyAge(ageCalculator));
         }
     }
 }

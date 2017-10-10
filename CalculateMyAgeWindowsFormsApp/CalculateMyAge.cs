@@ -15,13 +15,14 @@ namespace CalculateMyAgeWindowsFormsApp
     public partial class CalculateMyAge : Form
     {
         public readonly IAgeCalculator _ageCalculator;
+        //public CalculateMyAge(IAgeCalculator ageCalculator)
+        //{
+        //    _ageCalculator = ageCalculator;
+        //}
         public CalculateMyAge(IAgeCalculator ageCalculator)
         {
-            _ageCalculator = ageCalculator;
-        }
-        public CalculateMyAge()
-        {
             InitializeComponent();
+            _ageCalculator = ageCalculator;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -43,12 +44,12 @@ namespace CalculateMyAgeWindowsFormsApp
 
         private void submitButton_Click(object sender, EventArgs e)
         {
-            IAgeCalculator ageCalculator;
+            //IAgeCalculator ageCalculator;
             var firstName = firstNameTextBox.Text;
             var lastName = lastNameTextBox.Text;
             var birthDate = dateTimePicker.Value;
-            ageCalculator = new AgeCalculator();
-            string age = ageCalculator.CalculateAge(birthDate);
+            //ageCalculator = new AgeCalculator();
+            string age = _ageCalculator.CalculateAge(birthDate);
             resault.Text = String.Format("{0} {1}, you are {2} years old", firstName, lastName, age);
         }
 
