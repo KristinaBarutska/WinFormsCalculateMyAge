@@ -14,6 +14,11 @@ namespace CalculateMyAgeWindowsFormsApp
 {
     public partial class CalculateMyAge : Form
     {
+        public readonly IAgeCalculator _ageCalculator;
+        public CalculateMyAge(IAgeCalculator ageCalculator)
+        {
+            _ageCalculator = ageCalculator;
+        }
         public CalculateMyAge()
         {
             InitializeComponent();
